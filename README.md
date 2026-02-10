@@ -1,4 +1,5 @@
 # Automation, Productivity, and Employment Trends in the United States
+
 ## Overview
 Advances in automation and artificial intelligence have raised widespread concerns about job displacement and long-term employment stability. This project explores the relationship between automation-driven productivity growth and employment trends in the United States to assess whether increased productivity correlates with job loss or workforce shifts over time.
 
